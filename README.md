@@ -189,7 +189,7 @@ The project includes comparative visualizations of all model performances across
 
 ## 📧 Contact
 
-Your Name - [Chirag Arora] (mailto:your.chiragarora1309@gmail.com)
+Your Name - [Chirag Arora] (chiragarora1309@gmail.com)
 
 
 ⭐ If you found this project helpful, please consider giving it a star!
